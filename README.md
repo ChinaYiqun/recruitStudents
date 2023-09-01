@@ -9,8 +9,9 @@
 
 https://github.com/chatchat-space/Langchain-Chatchat
 
-### 以下是两个个例子
+### 以下是两个例子
 
+#### 1
 您好
 
 ->:你好，欢迎来到我的办公室！请问有什么事情我可以帮助你的呢？
@@ -36,7 +37,7 @@ https://github.com/chatchat-space/Langchain-Chatchat
 当然，如果你还有其他问题或对我的研究方向感兴趣，我们可以进一步交流和了解。毕竟任何人都有了解的局限性，通过更深入的交流，你可以更好地了解我是否适合担任你的导师。
 
 
-
+#### 2
 
 你是刘莹老师么
 
