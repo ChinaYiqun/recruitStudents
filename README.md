@@ -1,4 +1,15 @@
 # recruitStudents
+### 简介
+
+一个基于自定义知识库的招生机器人,可以扮演导师进行招生。
+
+需要申请openai chatgpt key,之后运行faiss-gpt脚本即可.
+
+### 参考
+
+https://github.com/chatchat-space/Langchain-Chatchat
+
+### 以下是一个例子
 
 您好
 
